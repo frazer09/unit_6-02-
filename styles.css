@@ -5,7 +5,9 @@ body {
     margin: 0;
     text-align: center;
 }
-
+#link-contaners {
+    display: flex;
+}
 #content {
     position: relative;
     background-color: white;
