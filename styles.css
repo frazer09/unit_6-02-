@@ -50,8 +50,8 @@ body {
 
 .link{
     background-color: hotpink;
-    width: 10px;
-    height: 10px;
+    width: 100px;
+    height: 100px;
     color: chartreuse;
     border: 2px solid beige;
 }
