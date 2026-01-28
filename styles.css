@@ -46,3 +46,12 @@ body {
     color: white;
     height: 50px;
 }
+
+
+.link{
+    background-color: hotpink;
+    width: 10px;
+    height: 10px;
+    color: chartreuse;
+    border: 2px solid beige;
+}
